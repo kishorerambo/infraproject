@@ -1,0 +1,5 @@
+You'll be using GitHub for this tutorial as it is widely used, however, Bitbucket, Gitlab, etc. are also popular, but Developers, Data Scientists, and Data Analysts mostly use the GitHub to PUSH and do PULL Request. You can easily follow along with all of the materials in the tutorial, even if you are a beginner. However, if you don't have any concept about Git, then have a look at Git Tutorial for Beginners: Command-Line Fundamentals and set up your environment by using GIT SETUP: The Definitive Guide. You do need to have a GitHub account. If you don't, you can create one here.
+Git PUSH
+The git push command is used to transfer or push the commit, which is made on a local branch in your computer to a remote repository like GitHub. The command used for pushing to GitHub is given below.
+git push 'remote_name' 'branch_name'
+In this tutorial, you'll be looking two different ways to PUSH to GitHub.
